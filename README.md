@@ -1,13 +1,13 @@
 # PLATEAU SDK for Unreal Samples
-このリポジトリでは、[PLATEAU SDK for Unreal](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
+このリポジトリでは、[PLATEAU SDK for Unreal](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
 
-[PLATEAU SDK for Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Uniy)向けサンプルプロジェクトは[こちら](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity-Samples)で公開しています。
+[PLATEAU SDK for Unity](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Uniy)向けサンプルプロジェクトは[こちら](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-Samples)で公開しています。
 
 ## 動作環境
 - Unreal Engine 5.0.3
 
 ## 導入
-- [Releaseページ](https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal-Samples/releases)から最新版を選択します。
+- [Releaseページ](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal-Samples/releases)から最新版を選択します。
 - 掲載されているサンプルプロジェクトをダウンロードします。
 - zipファイルを展開して、PLATEAUUnrealSamples.uprojectを開きます。
 
@@ -23,7 +23,7 @@ PLATEAU SDKでどのような属性情報にアクセスできるかについて
 git lfs の導入が必要であることに注意してください。
 ```
 git lfs install
-git clone https://github.com/Synesthesias/PLATEAU-SDK-for-Unreal-Samples.git
+git clone https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal-Samples.git
 ```
 
 ## ライセンス
