@@ -1,7 +1,12 @@
 # PLATEAU SDK for Unreal Samples
 このリポジトリでは、[PLATEAU SDK for Unreal](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
 
-[PLATEAU SDK for Unity](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Uniy)向けサンプルプロジェクトは[こちら](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-Samples)で公開しています。
+[PLATEAU SDK for Unity](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Uniy)向けサンプルプロジェクトは[こちら](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unity-Samples)です。
+
+## はじめに
+PLATEAU公式サイトで[PLATEAU SDK for Unrealのチュートリアル](https://www.mlit.go.jp/plateau/learning/tpc17-2/)を公開しています。
+
+SDKの導入方法、機能の説明、サンプルプロジェクトの内容等について解説していますので、初めてSDKやサンプルプロジェクトを触る方はまずはこちらをご覧ください。
 
 ## 動作環境
 - Unreal Engine 5.0.3
