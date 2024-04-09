@@ -1,3 +1,11 @@
+# 古いサンプルです
+このサンプルは2023年のものであり、SDKの最新版とは合わない点があります。  
+新しいサンプルをご利用ください:  
+- [2024年のGISサンプル](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal-GISSample)
+  - 都市の情報を視覚的に表示するサンプルです。
+- [2024年のゲームサンプル](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal-GameSample)
+  - 都市を舞台に遊ぶゲームのサンプルです。
+
 # PLATEAU SDK for Unreal Samples
 このリポジトリでは、[PLATEAU SDK for Unreal](https://github.com/Project-PLATEAU/PLATEAU-SDK-for-Unreal)を利用すると実際にどのようなアプリケーションが作れるかについて知るためのサンプルプロジェクトを公開しています。
 
